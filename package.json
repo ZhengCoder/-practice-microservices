@@ -1,0 +1,25 @@
+{
+  "name": "practice-nodejs-microservices",
+  "version": "0.0.1",
+  "description": "my own codes for book \"developing microservices with nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhengCoder/practice-nodejs-microservices.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Zheng Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhengCoder/practice-nodejs-microservices/issues"
+  },
+  "homepage": "https://github.com/ZhengCoder/practice-nodejs-microservices",
+  "dependencies": {
+    "seneca": "^3.2.1"
+  }
+}
